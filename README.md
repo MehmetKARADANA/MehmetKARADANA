@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate Software Engineer from Turkiye</h3>
 
@@ -11,11 +12,11 @@
 
 <h3 align="left">My Apps:</h3>
 
-| App | App Store | Google Play |
-| --- | --- | --- |
-| **Game of Secret** | [Download](https://apps.apple.com/app/id6824073380) | [Download](https://play.google.com/store/apps/details?id=com.mobile.gameofsecret) |
-| **Nidi: Baby Tracker** | [Download](https://apps.apple.com/app/id6821636463) | — |
-| **Nexora: AI Photo & Video** | — | [Download](https://play.google.com/store/apps/details?id=com.mehmetkaradanasoftware.nexora) |
+| | App | App Store | Google Play |
+| --- | --- | --- | --- |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/55/77/3e5577cf-cbb6-e976-eb9e-4a44e26f6424/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg" alt="Game of Secret" width="48" height="48"/> | **Game of Secret** | [Download](https://apps.apple.com/app/id6824073380) | [Download](https://play.google.com/store/apps/details?id=com.mobile.gameofsecret) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/90/c0/ef90c0e6-330e-28c4-f607-bc9d9eb0e5ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Nidi: Baby Tracker" width="48" height="48"/> | **Nidi: Baby Tracker** | [Download](https://apps.apple.com/app/id6821636463) | Coming soon |
+| <img src="https://play-lh.googleusercontent.com/1MpkSDGzQ5pb25ZMZlRu4ZTtYI4ZqzA4b7c9gq7zN5WOw9w4gpYn-5Hlk8OIhLdmRmIz4Yz3fM5MApTpS6h0hQ=s128" alt="Nexora" width="48" height="48"/> | **Nexora: AI Photo & Video** | Coming soon | [Download](https://play.google.com/store/apps/details?id=com.mehmetkaradanasoftware.nexora) |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
